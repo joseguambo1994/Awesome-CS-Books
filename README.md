@@ -26,6 +26,8 @@ Awesome CS Books Warehouse 是笔者阅读/收集的优秀计算机科学与技�
 
 * [book-warehouse](https://github.com/oneforce/book-warehouse)
 
+- [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
+
 ## Roadmap
 
 Next Milestone: 0.1
