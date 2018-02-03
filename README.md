@@ -4,11 +4,21 @@
 
 `Copyright © 王下邀月熊` [![Awesome](https://parg.co/UvS)](https://parg.co/UpB)
 
-Awesome CS Books Warehouse 是笔者阅读/收集的优秀计算机科学与技术领域相关的书籍归档，以 {年份}-{作者}-{书名}-{版本} 方式命名文件。阅读书籍永远是最为系统的学习方式，能够帮助我们缓解过于碎片化带来的技能不连贯性与片面性；本仓库以 IT CS 相关书籍为主，同时也会包含一些著名的、有价值的公开课程。
+[Awesome CS Books Warehouse](https://parg.co/UpB) 是笔者阅读/收集的优秀计算机科学与技术领域相关的书籍归档，以 {年份}-{作者}-{书名}-{版本} 方式命名文件。阅读书籍永远是最为系统的学习方式，能够帮助我们缓解过于碎片化带来的技能不连贯性与片面性；本仓库以 IT CS 相关书籍为主，同时也会包含一些著名的、有价值的公开课程，对于书籍归档的原则请参考笔者的 [IT 知识图谱与技术路线](https://parg.co/bwI)。
 
-为了保持对于原作者的尊重，目录条目中的链接都指向了发布网站 / 版权网站，所有非开源 / 非免费书籍皆以 :moneybag: 标识；笔者也使用 Git LFS 将部分书籍的 PDF 版本存放在了对应目录下，方便读者取阅。**需要声明的是，所有的 PDF 文件皆来自网络，若有版权侵犯，请及时告知，笔者先予以道歉并会及时删除；本仓库中的文档仅用于技术共享与交流，请勿用于商业用途。** 对于阅读或者下载书籍过程中出现问题的，请参考 [Git LFS](https://git-lfs.github.com/)或者 [Git CheatSheet](https://parg.co/Uvc) 教程。
+为了保持对于原作者的尊重，目录条目中的链接都指向了发布网站/版权网站，所有非开源/非免费书籍皆以 :moneybag: 标识；笔者也使用 Git LFS 将部分书籍的 PDF 版本存放在了仓库目录下，方便读者取阅。**需要声明的是，所有的 PDF 文件皆来自网络，若有版权侵犯，请及时告知，笔者先予以道歉并会及时删除；本仓库中的文档仅用于技术共享与交流，请勿用于商业用途。** 对于阅读或者下载书籍过程中出现问题的，请参考 [Git LFS](https://git-lfs.github.com/)或者 [Git CheatSheet](https://parg.co/Uvc) 教程。
 
 # 目录
+
+首先我们推荐一些来自出版商的免费电子书频道：
+
+* [O'Reilly Free Programming Ebooks](http://www.oreilly.com/programming/free/): Dive deep into the latest of what’s happening in the world of software engineering, architecture, and open source. 内容精良，覆盖广泛。
+
+* [Packt Free Programming Ebooks](https://www.packtpub.com/packt/offers/free-learning?from=block): 行业新秀，紧跟潮流，内容略参差不齐。
+
+* [Manning Free Programming Ebooks](http://freecontent.manning.com/free-ebooks/): 偏重于 Java 和分布式平台，也有一些看起来比较有深度的主题。
+
+* [ApressOpen](https://www.apress.com/cn/apress-open/apressopen-titles): Freely available, quality content for developers worldwide. 内容较少。
 
 ## SoftwareEngineering: 软件工程
 
