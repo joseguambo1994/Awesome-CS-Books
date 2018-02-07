@@ -20,11 +20,27 @@
 
 * [ApressOpen](https://www.apress.com/cn/apress-open/apressopen-titles): Freely available, quality content for developers worldwide. 内容较少。
 
+## Programming Language: 编程语言
+
 ## SoftwareEngineering: 软件工程
 
 ### AlgoDS: 数据结构与算法
 
 * [2017-Algorithm Design: Parallel and Sequential](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
+
+- [1997-Knuth-The Art of Computer Programming #Series#](https://www-cs-faculty.stanford.edu/~knuth/taocp.html): The Art of Computer Programming (sometimes known by its initials TAOCP) is a comprehensive monograph written by Donald Knuth that covers many kinds of programming algorithms and their analysis.
+
+### CollaborativeDevelopment
+
+* [2015-Phodal-Growth: 全栈增长工程师指南 #Book#](https://github.com/phodal/growth-ebook): 这是一本指导性的书籍——不要指望从这本书中学到所有的知识点，但是它可以帮你构建你的知识体系。 我们都会学习，但是有时候我们只是不知道应该学习什么而已。 这也是其他技术书籍所欠缺的。它可以告诉你，你可以学习什么，然后看什么书。
+
+### Design Pattern
+
+* [1997-Design Patterns: Elements of Reusable Object-Oriented Software #Book#](https://parg.co/UyK): These texts cover the design of object-oriented software and examine how to investigate requirements, create solutions and then translate designs into code, showing developers how to make practical use of the most significant recent developments.
+
+## Infrastructure: 基础架构
+
+### Virtualization: 虚拟化
 
 * [Kubernetes 指南](http://www.infoq.com/cn/minibooks/Kubernetes-handbook): 卓越的技术背景，中立的写作目的，高效的工作能力，我们没有理由不把这本《Kubernetes 指南》列为将来推荐给圈内好友的上上之选。甚至，我个人认为这会是一本最值得推荐的 Kubernetes 电子书。
 
@@ -32,9 +48,7 @@
 
 ## Acknowledge
 
-* [book-warehouse](https://github.com/oneforce/book-warehouse)
-
-- [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
+* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
 
 ## Roadmap
 
