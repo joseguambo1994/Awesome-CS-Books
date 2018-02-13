@@ -52,6 +52,8 @@
 
 * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
 
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
 ## Roadmap
 
 Next Milestone: 0.1
