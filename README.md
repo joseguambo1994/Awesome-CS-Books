@@ -40,6 +40,8 @@
 
 ## Infrastructure: 基础架构
 
+* [2017-Distributed Systems-3rd edition #Book#](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
+
 ### Virtualization: 虚拟化
 
 * [Kubernetes 指南](http://www.infoq.com/cn/minibooks/Kubernetes-handbook): 卓越的技术背景，中立的写作目的，高效的工作能力，我们没有理由不把这本《Kubernetes 指南》列为将来推荐给圈内好友的上上之选。甚至，我个人认为这会是一本最值得推荐的 Kubernetes 电子书。
