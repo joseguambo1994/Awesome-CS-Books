@@ -20,6 +20,8 @@
 
 * [ApressOpen](https://www.apress.com/cn/apress-open/apressopen-titles): Freely available, quality content for developers worldwide. 内容较少。
 
+在具体的技术之外，
+
 ## Programming Language: 编程语言
 
 ## SoftwareEngineering: 软件工程
