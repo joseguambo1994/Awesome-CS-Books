@@ -4,7 +4,7 @@
 
 `Copyright © 王下邀月熊` [![Awesome](https://parg.co/UvS)](https://parg.co/UpB)
 
-[Awesome CS Books Warehouse](https://parg.co/UpB) 是笔者阅读/收集的优秀计算机科学与技术领域相关的书籍归档，以 {年份}-{作者}-{书名}-{版本} 方式命名文件。阅读书籍永远是最为系统的学习方式，能够帮助我们缓解过于碎片化带来的技能不连贯性与片面性；本仓库以 IT CS 相关书籍为主，同时也会包含一些著名的、有价值的公开课程，对于书籍归档的原则请参考笔者的 [IT 知识图谱与技术路线](https://parg.co/bwI)。
+[Awesome CS Books Warehouse](https://parg.co/UpB) 是笔者阅读/收集的优秀计算机科学与技术领域相关的书籍归档，以 {年份}-{作者}-{书名}-{版本} 方式命名文件。阅读书籍永远是最为系统的学习方式，能够帮助我们缓解过于碎片化带来的技能不连贯性与片面性；本仓库以 IT CS 相关书籍为主，同时也会包含一些著名的、有价值的公开课程，对于书籍归档的原则请参考笔者的 [IT 知识图谱与技术路线](https://github.com/wxyyxc1992/Awesome-KnowledgeMap)。
 
 为了保持对于原作者的尊重，目录条目中的链接都指向了发布网站/版权网站，所有非开源/非免费书籍皆以 :moneybag: 标识；笔者也使用 Git LFS 将部分书籍的 PDF 版本存放在了仓库目录下，方便读者取阅。**需要声明的是，所有的 PDF 文件皆来自网络，若有版权侵犯，请及时告知，笔者先予以道歉并会及时删除；本仓库中的文档仅用于技术共享与交流，请勿用于商业用途。** 对于阅读或者下载书籍过程中出现问题的，请参考 [Git LFS](https://git-lfs.github.com/)或者 [Git CheatSheet](https://parg.co/Uvc) 教程。
 
@@ -23,6 +23,20 @@
 在具体的技术之外，
 
 ## Programming Language: 编程语言
+
+### Go
+
+* [2015-An Introduction to Programming in Go #Book#](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
+
+* [2016-Learning Go Programming #Book#](https://parg.co/b21): An insightful guide to learning the Go programming language
+
+* [2016-Go Web 编程 #Book#](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
+
+* [2016-深入解析 Go #Book#](https://tiancaiamao.gitbooks.io/go-internals/content/zh/): 因为自己对 Go 底层的东西比较感兴趣，所以抽空在写一本开源的书籍《深入解析 Go》。写这本书不表示我能力很强，而是我愿意分享，和大家一起分享对 Go 语言的内部实现的一些研究。
+
+- [2016-Webapp with Golang Anti Textbook](https://drive.wps.cn/view/l/576006e7ef6c4c4e8fe19663ded5e944)
+
+* [2017-Go 语言高级编程 #Book#](https://parg.co/UMV): 本书针对 Go 语言有一定经验，想深入了解 Go 语言各种高级用法的开发人员。
 
 ## SoftwareEngineering: 软件工程
 
