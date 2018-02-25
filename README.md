@@ -72,6 +72,8 @@
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
+* [pdfs](https://github.com/tpn/pdfs): A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
+
 ## Roadmap
 
 Curent Milestone: 0.0.1, Next Milestone: 0.1
