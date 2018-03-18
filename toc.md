@@ -10,7 +10,7 @@
 
 * [ApressOpen](https://www.apress.com/cn/apress-open/apressopen-titles): Freely available, quality content for developers worldwide. 内容较少。
 
-在具体的技术之外，
+在具体的技术之外，我们可以先了解些编程之禅(Zen):
 
 # Programming Language
 
