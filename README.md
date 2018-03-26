@@ -1,4 +1,4 @@
-![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/11/3/4/18L7RiWwRVtHIP35FFUbdog.jpeg)
+![](https://user-images.githubusercontent.com/5803001/37886888-d361e980-30f0-11e8-913b-6fbfce98ab77.jpeg)
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
