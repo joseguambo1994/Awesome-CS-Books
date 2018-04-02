@@ -50,6 +50,8 @@
 
 * [2017-Distributed Systems-3rd Edition #Book#](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
 
+* [2011-Özsu-Principles of Distributed Database Systems-3rd Edition #Book#](http://www.springer.com/us/book/9781441988331): The first part discusses the fundamental principles of distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication. The second part focuses on more advanced topics and includes discussion of parallel database systems, distributed object management, peer-to-peer data management, web data management, data stream systems, and cloud computing.
+
 ## Virtualization
 
 * [Kubernetes 指南](http://www.infoq.com/cn/minibooks/Kubernetes-handbook): 卓越的技术背景，中立的写作目的，高效的工作能力，我们没有理由不把这本《Kubernetes 指南》列为将来推荐给圈内好友的上上之选。甚至，我个人认为这会是一本最值得推荐的 Kubernetes 电子书。
