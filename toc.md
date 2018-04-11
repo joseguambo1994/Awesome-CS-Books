@@ -18,15 +18,19 @@
 
 * [2015-An Introduction to Programming in Go #Book#](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
-* [2016-Learning Go Programming #Book#](https://parg.co/b21): An insightful guide to learning the Go programming language
-
 * [2016-Go Web 编程 #Book#](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/): Go web 编程是因为我喜欢 Web 编程,所以写了这本书,希望大家喜欢。
 
 * [2016-深入解析 Go #Book#](https://tiancaiamao.gitbooks.io/go-internals/content/zh/): 因为自己对 Go 底层的东西比较感兴趣，所以抽空在写一本开源的书籍《深入解析 Go》。写这本书不表示我能力很强，而是我愿意分享，和大家一起分享对 Go 语言的内部实现的一些研究。
 
 - [2016-Webapp with Golang Anti Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook): Learn how to write webapps without a framework in Go.
 
+* [2016-Learning Go Programming #Book#](https://parg.co/b21): An insightful guide to learning the Go programming language.
+
 * [2017-Go 语言高级编程 #Book#](https://parg.co/UMV): 本书针对 Go 语言有一定经验，想深入了解 Go 语言各种高级用法的开发人员。
+
+* [2018-Essential Go #Book#](https://www.programming-books.io/essential/go/): a free Go programming book, a continuation of Stack Overflow Documentation.
+
+* [2018-go-internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
 
 # Software Engineering
 
@@ -51,6 +55,8 @@
 * [2017-Distributed Systems-3rd Edition #Book#](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
 
 * [2011-Özsu-Principles of Distributed Database Systems-3rd Edition #Book#](http://www.springer.com/us/book/9781441988331): The first part discusses the fundamental principles of distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication. The second part focuses on more advanced topics and includes discussion of parallel database systems, distributed object management, peer-to-peer data management, web data management, data stream systems, and cloud computing.
+
+* [2017-Kubernetes 中文指南/云原生应用架构实践手册 #Book#](https://github.com/rootsongjc/kubernetes-handbook): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
 
 ## Virtualization
 
