@@ -14,6 +14,10 @@
 
 # Programming Language
 
+## Programming Language Theory
+
+* [2012-Shriram-Programming Languages: Application and Interpretation #Book#](http://cs.brown.edu/courses/cs173/2012/book/index.html): Programming language ‘‘paradigms’’ are a moribund and tedious legacy of a bygone age. Modern language designers pay them no respect, so why do our courses slavishly adhere to them? This paper argues that we should abandon this method of teaching languages, offers an alternative, reconciles an important split in programming language education, and describes a textbook that explores these matters. [中文版参考这里](https://legacy.gitbook.com/book/lotuc/plai-cn/details)。
+
 ## Go
 
 * [2015-An Introduction to Programming in Go #Book#](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
