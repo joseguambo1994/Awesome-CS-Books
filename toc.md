@@ -60,6 +60,8 @@
 
 * [2011-Özsu-Principles of Distributed Database Systems-3rd Edition #Book#](http://www.springer.com/us/book/9781441988331): The first part discusses the fundamental principles of distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication. The second part focuses on more advanced topics and includes discussion of parallel database systems, distributed object management, peer-to-peer data management, web data management, data stream systems, and cloud computing.
 
+* [2017-Designing Data-Intensive Applications #Book#](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data.
+
 * [2017-Kubernetes 中文指南/云原生应用架构实践手册 #Book#](https://github.com/rootsongjc/kubernetes-handbook): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
 
 ## Virtualization
