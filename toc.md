@@ -50,6 +50,10 @@
 
 * [2015-Phodal-Growth: 全栈增长工程师指南 #Book#](https://github.com/phodal/growth-ebook): 这是一本指导性的书籍——不要指望从这本书中学到所有的知识点，但是它可以帮你构建你的知识体系。 我们都会学习，但是有时候我们只是不知道应该学习什么而已。 这也是其他技术书籍所欠缺的。它可以告诉你，你可以学习什么，然后看什么书。
 
+### Git
+
+* [2007-Git Magic #Book#](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html): Rather than go into details, we provide rough instructions for particular effects. After repeated use, gradually you will understand how each trick works, and how to tailor the recipes for your needs.
+
 ## Design Pattern
 
 * [1997-Design Patterns: Elements of Reusable Object-Oriented Software #Book#](https://parg.co/UyK): These texts cover the design of object-oriented software and examine how to investigate requirements, create solutions and then translate designs into code, showing developers how to make practical use of the most significant recent developments.
