@@ -15,3 +15,5 @@
 * [ ] 归档 http://books.goalkicker.com/ 中涉及的书籍
 
 * [ ] 归档 https://github.com/dariubs/GoBooks 中的内容
+
+* [ ] 归档 https://github.com/rohanchikorde/Data-Science-books
