@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/5803001/37886888-d361e980-30f0-11e8-913b-6fbfce98ab77.jpeg)
+![](https://user-images.githubusercontent.com/5803001/43364904-59f5bda6-9356-11e8-9ab3-ae073d08bb9e.png)
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
@@ -23,6 +23,8 @@
   * [Virtualization](./toc.md#virtualization)
 
 # About
+
+![](https://user-images.githubusercontent.com/5803001/37886888-d361e980-30f0-11e8-913b-6fbfce98ab77.jpeg)
 
 ## Acknowledge
 
