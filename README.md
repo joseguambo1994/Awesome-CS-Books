@@ -34,6 +34,8 @@
 
 * [pdfs](https://github.com/tpn/pdfs): A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
 
+* [books](https://github.com/yuanliangding/books): 没时间写博客了，把读过的一些书分享出来给大家。这个库会持续不断的更新。并且每次只提交一本书，会在提交注释中附加对书的评论。
+
 ## Roadmap
 
 Curent Milestone: 0.0.1, Next Milestone: 0.1
