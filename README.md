@@ -10,17 +10,21 @@
 
 为了保持对于原作者的尊重，目录条目中的链接都指向了发布网站/版权网站，所有非开源/非免费书籍皆以 :moneybag: 标识；笔者也使用 Git LFS 将部分书籍的 PDF 版本存放在了仓库目录下，方便读者取阅。**需要声明的是，所有的 PDF 文件皆来自网络，若有版权侵犯，请及时告知，笔者先予以道歉并会及时删除；本仓库中的文档仅用于技术共享与交流，请勿用于商业用途。** 对于阅读或者下载书籍过程中出现问题的，请参考 [Git LFS](https://git-lfs.github.com/) 或者 [Git CheatSheet](https://parg.co/UTd) 教程。
 
+# Preface | 前言
+
+## TOC | 目录
+
 完整的文档目录查看[这里](./toc.md)，以下是目录索引：
 
-* [Zen](./toc.md#zen)
-* [Programming Language](./toc.md#programming-language)
-  * [Go](./toc.md#go)
-* [Software Engineering](./toc.md#software-engineering)
-  * [Algorithm & DataStructure](./toc.md#algorithm-datastructure)
-  * [CollaborativeDevelopment](./toc.md#collaborativedevelopment)
-  * [Design Pattern](./toc.md#design-pattern)
-* [Infrastructure](./toc.md#infrastructure)
-  * [Virtualization](./toc.md#virtualization)
+- [Zen](./toc.md#zen)
+- [Programming Language](./toc.md#programming-language)
+  - [Go](./toc.md#go)
+- [Software Engineering](./toc.md#software-engineering)
+  - [Algorithm & DataStructure](./toc.md#algorithm-datastructure)
+  - [CollaborativeDevelopment](./toc.md#collaborativedevelopment)
+  - [Design Pattern](./toc.md#design-pattern)
+- [Infrastructure](./toc.md#infrastructure)
+  - [Virtualization](./toc.md#virtualization)
 
 # About
 
@@ -28,13 +32,13 @@
 
 ## Acknowledge
 
-* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
+- [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
 
-* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
-* [pdfs](https://github.com/tpn/pdfs): A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
+- [pdfs](https://github.com/tpn/pdfs): A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
 
-* [books](https://github.com/yuanliangding/books): 没时间写博客了，把读过的一些书分享出来给大家。这个库会持续不断的更新。并且每次只提交一本书，会在提交注释中附加对书的评论。
+- [books](https://github.com/yuanliangding/books): 没时间写博客了，把读过的一些书分享出来给大家。这个库会持续不断的更新。并且每次只提交一本书，会在提交注释中附加对书的评论。
 
 ## Roadmap
 
