@@ -16,20 +16,6 @@
 
 # Preface | 前言
 
-## TOC | 目录
-
-完整的文档目录查看[这里](./toc.md)，以下是目录索引：
-
-- [Zen](./toc.md#zen)
-- [Programming Language](./toc.md#programming-language)
-  - [Go](./toc.md#go)
-- [Software Engineering](./toc.md#software-engineering)
-  - [Algorithm & DataStructure](./toc.md#algorithm-datastructure)
-  - [CollaborativeDevelopment](./toc.md#collaborativedevelopment)
-  - [Design Pattern](./toc.md#design-pattern)
-- [Infrastructure](./toc.md#infrastructure)
-  - [Virtualization](./toc.md#virtualization)
-
 # About
 
 ![](https://user-images.githubusercontent.com/5803001/37886888-d361e980-30f0-11e8-913b-6fbfce98ab77.jpeg)
