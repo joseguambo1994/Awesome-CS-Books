@@ -85,3 +85,16 @@ A good idea to start with the assumption that everything is visual noise (the �
 - Highlight key terms.
 
 # Animal, Vegetable, or Mineral? WHY USERS LIKE MINDLESS CHOICES
+
+It doesn’t matter how many times I have to click, as long as each click is a mindless, unambiguous. But over time I’ve come to think that what really counts is not the number of clicks it takes me to get to what I want (although there are limits), but rather how hard each click is—the amount of thought required and the amount of uncertainty about whether I’m making the right choice.
+
+## Some assistance may be required
+
+This guidance works best when it’s
+
+- Brief: The smallest amount of information that will help me
+- Timely: Placed so I encounter it exactly when I need it
+- Unavoidable: Formatted in a way that ensures that I’ll notice it
+
+# Omit needless words
+
