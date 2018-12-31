@@ -98,3 +98,11 @@ This guidance works best when it’s
 
 # Omit needless words
 
+# Mobile: It’s not just a city in Alabama anymore
+
+So, what’s different about usability when you’re designing for use on a mobile device?In one sense, the answer is: Not much. The basic principles are still the same. If anything, people are
+moving faster and reading even less on small screens. Most of the challenges in creating good mobile usability boil down to making good tradeoffs.
+
+Which parts do you leave out? One approach was Mobile First. Instead of designing a full-featured (and perhaps bloated) version of your Web site first and then paring it down to create the mobile version, you design the mobile version first based on the features and content that are most important to your users. Then you add on more features and content to create the desktop/full version
+
+
