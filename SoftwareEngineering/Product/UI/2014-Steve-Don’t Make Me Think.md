@@ -16,6 +16,10 @@ You'll find a lot of different definitions of usability often breaking it down i
 - Desirable: Do people want it?
 - Delightful: Is using it enjoyable, or even fun?
 
+Person of average (or even below average) ability and experience can figure out how to
+use the thing [i.e., it’s learnable] to accomplish something [effective] without it being more
+trouble than it’s worth [efficient].
+
 # Dont make me think
 
 What's the most important thing I should do if i want to make sure my site or app is easy to use? It's not "Nothing important should ever be more than two clicks away" or "Speak the user' s language" or "Be consistent." It's Dont make me think.
@@ -130,4 +134,6 @@ Affordances are visual clues in an object’s design that suggest how we can use
 This is not to say that all affordances need to hit you in the face. They just have to be visible enough
 that people can notice the ones they need to get their tasks done.
 
-Flat design has a tendency to take along with it not just the potentially distracting decoration but also the useful information that the more textured elements were conveying.
+Flat design has a tendency to take along with it not just the potentially distracting decoration but also the useful information that the more textured elements were conveying.
+
+
