@@ -108,4 +108,12 @@ Which parts do you leave out? One approach was Mobile First. Instead of designin
 If there are two things I can tell you about scalable design (a/k/a dynamic layout, fluid design, adaptive design, and responsive design), they’re these:
 - It tends to be a lot of work.
 - It’s very hard to do it well.
-
+
+In the meantime, here are three suggestions:
+
+- Allow zooming.
+
+- Don’t leave me standing at the front door. You tap on a link in an email or a social media site and instead of taking you to the article in question it takes you to the mobile Home page, leaving you to hunt for the thing yourself.
+
+- Always provide a link to the “full” Web site.
+
