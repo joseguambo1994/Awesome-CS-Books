@@ -105,6 +105,8 @@ moving faster and reading even less on small screens. Most of the challenges in 
 
 Which parts do you leave out? One approach was Mobile First. Instead of designing a full-featured (and perhaps bloated) version of your Web site first and then paring it down to create the mobile version, you design the mobile version first based on the features and content that are most important to your users. Then you add on more features and content to create the desktop/full version
 
+## Breeding chameleons
+
 If there are two things I can tell you about scalable design (a/k/a dynamic layout, fluid design, adaptive design, and responsive design), they’re these:
 - It tends to be a lot of work.
 - It’s very hard to do it well.
@@ -117,3 +119,15 @@ In the meantime, here are three suggestions:
 
 - Always provide a link to the “full” Web site.
 
+Be careful that your responsive design solutions aren’t loading up pages with huge amounts of code and images that are larger than necessary for the user’s screen.
+
+## Don’t hide your affordances under a bushel
+
+Affordances are visual clues in an object’s design that suggest how we can use it.  
+
+- [](https://ww1.sinaimg.cn/large/005SXJ9Aly1fyrhahn0rfj30yi05tmz7.jpg)
+
+This is not to say that all affordances need to hit you in the face. They just have to be visible enough
+that people can notice the ones they need to get their tasks done.
+
+Flat design has a tendency to take along with it not just the potentially distracting decoration but also the useful information that the more textured elements were conveying.
