@@ -105,4 +105,7 @@ moving faster and reading even less on small screens. Most of the challenges in 
 
 Which parts do you leave out? One approach was Mobile First. Instead of designing a full-featured (and perhaps bloated) version of your Web site first and then paring it down to create the mobile version, you design the mobile version first based on the features and content that are most important to your users. Then you add on more features and content to create the desktop/full version
 
+If there are two things I can tell you about scalable design (a/k/a dynamic layout, fluid design, adaptive design, and responsive design), they’re these:
+- It tends to be a lot of work.
+- It’s very hard to do it well.
 
