@@ -136,4 +136,19 @@ that people can notice the ones they need to get their tasks done.
 
 Flat design has a tendency to take along with it not just the potentially distracting decoration but also the useful information that the more textured elements were conveying.
 
+## Delightful & Learnable
+
+Delightful apps usually come from marrying an idea about something people would really enjoy being able to do, but don’t imagine is possible, with a bright idea about how to use some new technology to accomplish it.
+
+One of the biggest problems with apps is that if they have more than a few features they may not be very easy to learn.
+That’s not to say that no one in the real world learns how to use it. It gets great reviews and is
+consistently a best seller. But I have to wonder how many people who bought it have never mastered
+it, or how many more sales they could make if it were easier to learn.
+
+There’s one more attribute that’s important: memorability. Once you’ve figured out how to use an app,
+will you remember how to use it the next time you try or will you have to start over again from
+scratch?
+
+## Usability testing on mobile devices
+
 
