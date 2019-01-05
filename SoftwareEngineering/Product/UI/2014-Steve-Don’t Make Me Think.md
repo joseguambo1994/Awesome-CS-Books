@@ -20,7 +20,7 @@ Person of average (or even below average) ability and experience can figure out 
 use the thing [i.e., it’s learnable] to accomplish something [effective] without it being more
 trouble than it’s worth [efficient].
 
-# Dont make me think
+# Chapter 1. Dont make me think
 
 What's the most important thing I should do if i want to make sure my site or app is easy to use? It's not "Nothing important should ever be more than two clicks away" or "Speak the user' s language" or "Be consistent." It's Dont make me think.
 
@@ -28,7 +28,7 @@ All kinds of things on a Web page can make us stop and think unnecessarily. Your
 
 On a self-explanatory page, it takes a little thought to get it, but only a little. The appearance of things (like size, color, and layout), their well-chosen names, and the small amounts of carefully crafted text should all work together to create a sense of nearly effortless understanding.
 
-# How we really use the Web
+# Chapter 2. How we really use the Web
 
 When we're creating Sites, we act as though people are going to pore over each page, reading all of our carefully crafted text, figuring out how we've organized things, and weighing their options before deciding which link to click.
 
@@ -40,7 +40,7 @@ What they actually do most of the time (if were lucky is glance at each new page
 
 - FACT OF LIFE #3: **We don't figure out how things work. We muddle through.**
 
-# Billboard Design 101
+# Chapter 3. Billboard Design 101
 
 **DESIGNING FOR SCANNING, NOT READING**
 
@@ -88,7 +88,7 @@ A good idea to start with the assumption that everything is visual noise (the �
 - Use bulleted lists.
 - Highlight key terms.
 
-# Animal, Vegetable, or Mineral? WHY USERS LIKE MINDLESS CHOICES
+# Chapter 4. Animal, Vegetable, or Mineral? WHY USERS LIKE MINDLESS CHOICES
 
 It doesn’t matter how many times I have to click, as long as each click is a mindless, unambiguous. But over time I’ve come to think that what really counts is not the number of clicks it takes me to get to what I want (although there are limits), but rather how hard each click is—the amount of thought required and the amount of uncertainty about whether I’m making the right choice.
 
@@ -100,7 +100,7 @@ This guidance works best when it’s
 - Timely: Placed so I encounter it exactly when I need it
 - Unavoidable: Formatted in a way that ensures that I’ll notice it
 
-# Omit needless words
+# Chapter 5. Omit needless words
 
 # Mobile: It’s not just a city in Alabama anymore
 
