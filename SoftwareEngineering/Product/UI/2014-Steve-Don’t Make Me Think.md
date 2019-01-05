@@ -1,5 +1,7 @@
 # Dont Make Me Think. A Common Sense Approach to Web Usability.
 
+在[产品经理必读书单](https://github.com/wxyyxc1992/Awesome-Links/blob/master/SoftwareEngineering/Product/Product-Links.md)以及[年度总结中](https://zhuanlan.zhihu.com/p/53717740)
+
 Here are a few things you **won't** find in this book:
 
 - Hard and fast usability rules
@@ -16,9 +18,7 @@ You'll find a lot of different definitions of usability often breaking it down i
 - Desirable: Do people want it?
 - Delightful: Is using it enjoyable, or even fun?
 
-Person of average (or even below average) ability and experience can figure out how to
-use the thing [i.e., it’s learnable] to accomplish something [effective] without it being more
-trouble than it’s worth [efficient].
+Person of average (or even below average) ability and experience can figure out how to use the thing [i.e., it’s learnable] to accomplish something[effective] without it being more trouble than it’s worth [efficient].
 
 # Dont make me think
 
@@ -102,7 +102,7 @@ This guidance works best when it’s
 
 # Omit needless words
 
-# Mobile: It’s not just a city in Alabama anymore
+# Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
 So, what’s different about usability when you’re designing for use on a mobile device?In one sense, the answer is: Not much. The basic principles are still the same. If anything, people are
 moving faster and reading even less on small screens. Most of the challenges in creating good mobile usability boil down to making good tradeoffs.
@@ -112,6 +112,7 @@ Which parts do you leave out? One approach was Mobile First. Instead of designin
 ## Breeding chameleons
 
 If there are two things I can tell you about scalable design (a/k/a dynamic layout, fluid design, adaptive design, and responsive design), they’re these:
+
 - It tends to be a lot of work.
 - It’s very hard to do it well.
 
@@ -127,7 +128,7 @@ Be careful that your responsive design solutions aren’t loading up pages with 
 
 ## Don’t hide your affordances under a bushel
 
-Affordances are visual clues in an object’s design that suggest how we can use it.  
+Affordances are visual clues in an object’s design that suggest how we can use it.
 
 - [](https://ww1.sinaimg.cn/large/005SXJ9Aly1fyrhahn0rfj30yi05tmz7.jpg)
 
@@ -141,7 +142,8 @@ Flat design has a tendency to take along with it not just the potentially distra
 Delightful apps usually come from marrying an idea about something people would really enjoy being able to do, but don’t imagine is possible, with a bright idea about how to use some new technology to accomplish it.
 
 One of the biggest problems with apps is that if they have more than a few features they may not be very easy to learn.
-That’s not to say that no one in the real world learns how to use it. It gets great reviews and is
+
+That’s not to say that no one in the real world learns how to use it. It gets great reviews and is
 consistently a best seller. But I have to wonder how many people who bought it have never mastered
 it, or how many more sales they could make if it were easier to learn.
 
@@ -151,4 +153,42 @@ scratch?
 
 ## Usability testing on mobile devices
 
-
+Here are some of the issues you have to deal with:
+
+- Do you need to let the participants use their own devices?
+- Do they need to hold the device naturally, or can it be sitting on a table or propped up on a stand?
+- What do the observers need to see (e.g., just the screen, or both the screen and the participant’s fingers so they can see their gestures)? And how do you display it in the observation room?
+- How do you create a recording?
+
+Until better technology-based solutions come along, here’s what I’d lean toward:
+
+- Use a camera pointed at the screen instead of mirroring.
+- Attach the camera to the device so the user can hold it naturally.
+- Don’t bother with a camera pointed at the participant.
+
+![image](https://user-images.githubusercontent.com/5803001/50689309-1e249a00-1064-11e9-8631-57a5420442f5.png)
+
+# Chapter 11. Usability as common courtesy(绅士)
+
+Here are a few of the things that tend to make users feel like the people publishing a site don’t have their best interests at heart(避免做以下的事):
+
+- Hiding information that I want. The most common things to hide are customer support phone numbers, shipping rates, and prices.
+
+- Punishing me for not doing things your way. I should never have to think about formatting data: whether or not to put dashes in my Social Security number, spaces in my credit card number, or parentheses in my phone number.
+
+- Asking me for information you don’t really need.
+
+- Shucking and jiving me. We’re always on the lookout for faux sincerity, and disingenuous attempts to convince me that you care about me can be particularly annoying.
+
+- Putting sizzle in my way. Having to wade through pages bloated with feel-good marketing photos makes it clear that you don’t understand—or care—that I’m in a hurry.
+
+- Your site looks amateurish. You can lose goodwill if your site looks sloppy, disorganized, or unprofessional, like no effort has gone into making it presentable.
+
+The good news is that even if you make mistakes, it’s possible to restore my goodwill by doing things that convince me that you do have my interests at heart. Most of these are just the flip side of the other list:
+
+- Know the main things that people want to do on your site and make them obvious and
+  eas
+
+- Tell me what I want to know.
+
+- Save me steps wherever you can.
