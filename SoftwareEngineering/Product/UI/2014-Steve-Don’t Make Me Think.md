@@ -102,6 +102,12 @@ This guidance works best when it’s
 
 # Chapter 5. Omit needless words
 
+Get rid of half the words on each page, then get rid of half of what’s left. 
+
+- Happy talk must die: It’s the introductory text that’s supposed to welcome us to the site and tell us how great it is or to tell us what we’re about to see in the section we’ve just entered. Happy talk is like small talk—content-free, basically just a way to be sociable. But most Web users don’t have time for small talk; they want to get right to the point. You can—and should—eliminate as much happy talk as possible.
+
+- Instructions must die: Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. 
+
 # Mobile: It’s not just a city in Alabama anymore
 
 So, what’s different about usability when you’re designing for use on a mobile device?In one sense, the answer is: Not much. The basic principles are still the same. If anything, people are
