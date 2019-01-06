@@ -106,7 +106,25 @@ Get rid of half the words on each page, then get rid of half of what’s left.
 
 - Happy talk must die: It’s the introductory text that’s supposed to welcome us to the site and tell us how great it is or to tell us what we’re about to see in the section we’ve just entered. Happy talk is like small talk—content-free, basically just a way to be sociable. But most Web users don’t have time for small talk; they want to get right to the point. You can—and should—eliminate as much happy talk as possible.
 
-- Instructions must die: Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. 
+- Instructions must die: Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. 
+
+## Web Navigation 101
+
+In many ways, you go through the same process when you enter a Web site.
+
+- You’re usually trying to find something.
+
+- You decide whether to ask first or browse first. The difference is that on a Web site there’s no one standing around who can tell you where things are. The Web equivalent of asking directions is searching—typing a description of what you’re looking for in a search box and getting back a list of links to places.
+
+Some people (Jakob Nielsen calls them “search-dominant” users) will almost always look for a search box as soon as they enter a site. Other people (Nielsen’s “link-dominant” users) will almost always browse first, searching only when they’ve run out of likely links to click or when they have gotten sufficiently frustrated by the site.
+
+Web experience is missing many of the cues we’ve relied on all our lives to negotiate spaces. Consider these oddities of Web space:
+
+- No sense of scale.- No sense of direction.
+- No sense of location.
+
+This lack of physicality is both good and bad. On the plus side, the sense of weightlessness can be exhilarating and partly explains why it’s so easy to lose track of time on the Web—the same as when we’re “lost” in a good book.
+On the negative side, If you look up navigation in a dictionary, it’s about doing two things: getting from one place to another, and figuring out where you are.
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
