@@ -125,9 +125,9 @@ Web experience is missing many of the cues we’ve relied on all our lives to ne
 
 This lack of physicality is both good and bad. On the plus side, the sense of weightlessness can be exhilarating and partly explains why it’s so easy to lose track of time on the Web—the same as when we’re “lost” in a good book.
 On the negative side, If you look up navigation in a dictionary, it’s about doing two things: getting from one place to another, and figuring out where you are.
-## Web navigation conventions
-
 Two of the purposes of navigation are fairly obvious: to help us find whatever it is we’re looking for and to tell us where we are.
+
+## Persistent navigation
 
 ![](https://ww1.sinaimg.cn/large/005SXJ9Agy1fyzdmy8i86j30u00xhaqh.jpg)
 
@@ -138,6 +138,36 @@ Persistent navigation should include the four elements you most need to have on 
 ![](https://ww1.sinaimg.cn/large/005SXJ9Agy1fyzdmy8i86j30u00xhaqh.jpg)
 
 On pages where a form needs to be filled in, the persistent navigation can sometimes be an unnecessary distraction.
+
+One of the ways navigation can counteract the Web’s inherent “lost in space” feeling is by showing
+me where I am in the scheme of things.
+
+## Pages
+
+There are four things you need to know about page names:
+
+- Every page needs a name. Just as every corner should have a street sign, every page should have a name.
+
+- The name needs to be in the right place. In the visual hierarchy of the page, the page name should appear to be framing the content that is unique to this page
+
+![](https://ww1.sinaimg.cn/large/005SXJ9Agy1fyzdmy8i86j30u00xhaqh.jpg)
+
+- The name needs to be prominent.
+
+- The name needs to match what I clicked.
+
+## Breadcrumbs
+
+Like "You are here" indicators, Breadcrumbs show you where you are. They’re called Breadcrumbs because they’re reminiscent of the trail of crumbs Hansel dropped in the woods so he and Gretel could find their way back home.
+
+Breadcrumbs show you the path from the Home page to where you are and make it easy to move back up to higher levels in the hierarchy of a site.
+
+- Put them at the top.
+
+- Use > between levels.
+
+- Boldface the last item.
+
 
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
