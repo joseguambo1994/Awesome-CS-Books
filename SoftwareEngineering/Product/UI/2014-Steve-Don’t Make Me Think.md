@@ -125,6 +125,20 @@ Web experience is missing many of the cues we’ve relied on all our lives to ne
 
 This lack of physicality is both good and bad. On the plus side, the sense of weightlessness can be exhilarating and partly explains why it’s so easy to lose track of time on the Web—the same as when we’re “lost” in a good book.
 On the negative side, If you look up navigation in a dictionary, it’s about doing two things: getting from one place to another, and figuring out where you are.
+## Web navigation conventions
+
+Two of the purposes of navigation are fairly obvious: to help us find whatever it is we’re looking for and to tell us where we are.
+
+![](https://ww1.sinaimg.cn/large/005SXJ9Agy1fyzdmy8i86j30u00xhaqh.jpg)
+
+Just having the navigation appear in the same place on every page with a consistent look gives you instant confirmation that you’re still in the same site. 
+
+Persistent navigation should include the four elements you most need to have on hand at all times:
+
+![](https://ww1.sinaimg.cn/large/005SXJ9Agy1fyzdmy8i86j30u00xhaqh.jpg)
+
+On pages where a form needs to be filled in, the persistent navigation can sometimes be an unnecessary distraction.
+
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
