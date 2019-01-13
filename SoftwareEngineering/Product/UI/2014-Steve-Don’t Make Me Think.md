@@ -205,6 +205,15 @@ Here’s how you perform the trunk test:
 
 # Chapter 7. The Big Bang Theory of Web Design
 
+THE IMPORTANCE OFGETTING PEOPLE OFFON THE RIGHT FOOT.
+
+As quickly and clearly as possible, the Home page needs to answer the four questions I have in my
+head when I enter a new site for the first time:
+
+![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz569rv3trj30y508eadk.jpg)
+
+This is what I call the Big Bang Theory of Web Design. Like the Big Bang Theory, it’s based on the idea that the first few seconds you spend on a new Web site or Web page are critical.
+
 # Chapter 8. “The Farmer and the Cowman Should Be Friends” | 论内部协作
 
 ![image](https://user-images.githubusercontent.com/5803001/51085123-ae9f6080-176f-11e9-8112-09ac81e7d431.png)
