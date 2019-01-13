@@ -168,7 +168,15 @@ Breadcrumbs show you the path from the Home page to where you are and make it ea
 
 - Boldface the last item.
 
+## Tabs
 
+Tabs are one of the very few cases where using a physical metaphor in a user interface actually works. Here’s why I like them:
+
+- They’re self-evident.
+- They’re hard to miss.
+- They’re slick.
+
+![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz569rv3trj30y508eadk.jpg)
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
