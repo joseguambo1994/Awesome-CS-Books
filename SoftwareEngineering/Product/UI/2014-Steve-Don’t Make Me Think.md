@@ -108,7 +108,7 @@ Get rid of half the words on each page, then get rid of half of what’s left.
 
 - Instructions must die: Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible.
 
-# Street signs and Breadcrumbs
+# Chapter 6. Street signs and Breadcrumbs
 
 ## Web Navigation 101
 
@@ -182,6 +182,38 @@ Tabs are one of the very few cases where using a physical metaphor in a user int
 
 ![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz569rv3trj30y508eadk.jpg)
 
+If the page is well designed, when your vision clears you should be able to answer these questions without hesitation:
+
+- What site is this? (Site ID)
+- What page am I on? (Page name)
+- What are the major sections of this site? (Sections)
+- What are my options at this level? (Local navigation)
+- Where am I in the scheme of things? (“You are here” indicators)
+- How can I search?
+
+Here’s how you perform the trunk test:
+
+- Step 1: Choose a page anywhere in the site at random, and print it.
+- Step 2: Hold it at arm’s length or squint so you can’t really study it closely.
+- Step 3: As quickly as possible, try to find and circle each of these items:
+  - Site ID
+  - Page name
+  - Sections (Primary navigation)
+  - Local navigation
+  - “You are here” indicator(s)
+  - Search
+
+# Chapter 7. The Big Bang Theory of Web Design
+
+# Chapter 8. “The Farmer and the Cowman Should Be Friends” | 论内部协作
+
+![image](https://user-images.githubusercontent.com/5803001/51085123-ae9f6080-176f-11e9-8112-09ac81e7d431.png)
+
+![image](https://user-images.githubusercontent.com/5803001/51085117-929bbf00-176f-11e9-93de-91ddb5ee024f.png)
+
+# Chapter 9. Usability testing on 10 cents a day
+
+
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
 So, what’s different about usability when you’re designing for use on a mobile device?In one sense, the answer is: Not much. The basic principles are still the same. If anything, people are
@@ -248,36 +280,6 @@ Until better technology-based solutions come along, here’s what I’d lean tow
 
 ![image](https://user-images.githubusercontent.com/5803001/50689309-1e249a00-1064-11e9-8631-57a5420442f5.png)
 
-If the page is well designed, when your vision clears you should be able to answer these questions without hesitation:
-
-- What site is this? (Site ID)
-- What page am I on? (Page name)
-- What are the major sections of this site? (Sections)
-- What are my options at this level? (Local navigation)
-- Where am I in the scheme of things? (“You are here” indicators)
-- How can I search?
-
-Here’s how you perform the trunk test:
-
-- Step 1: Choose a page anywhere in the site at random, and print it.
-- Step 2: Hold it at arm’s length or squint so you can’t really study it closely.
-- Step 3: As quickly as possible, try to find and circle each of these items:
-  - Site ID
-  - Page name
-  - Sections (Primary navigation)
-  - Local navigation
-  - “You are here” indicator(s)
-  - Search
-
-# Chapter 7. The Big Bang Theory of Web Design
-
-# Chapter 8. “The Farmer and the Cowman Should Be Friends” | 论内部协作
-
-![image](https://user-images.githubusercontent.com/5803001/51085123-ae9f6080-176f-11e9-8112-09ac81e7d431.png)
-
-![image](https://user-images.githubusercontent.com/5803001/51085117-929bbf00-176f-11e9-93de-91ddb5ee024f.png)
-
-# Chapter 9. Usability testing on 10 cents a day
 
 # Chapter 11. Usability as common courtesy(绅士)
 
