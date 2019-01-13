@@ -102,11 +102,13 @@ This guidance works best when it’s
 
 # Chapter 5. Omit needless words
 
-Get rid of half the words on each page, then get rid of half of what’s left. 
+Get rid of half the words on each page, then get rid of half of what’s left.
 
 - Happy talk must die: It’s the introductory text that’s supposed to welcome us to the site and tell us how great it is or to tell us what we’re about to see in the section we’ve just entered. Happy talk is like small talk—content-free, basically just a way to be sociable. But most Web users don’t have time for small talk; they want to get right to the point. You can—and should—eliminate as much happy talk as possible.
 
-- Instructions must die: Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. 
+- Instructions must die: Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible.
+
+# Street signs and Breadcrumbs
 
 ## Web Navigation 101
 
@@ -120,18 +122,20 @@ Some people (Jakob Nielsen calls them “search-dominant” users) will almost a
 
 Web experience is missing many of the cues we’ve relied on all our lives to negotiate spaces. Consider these oddities of Web space:
 
-- No sense of scale.- No sense of direction.
+- No sense of scale.
+- No sense of direction.
 - No sense of location.
 
 This lack of physicality is both good and bad. On the plus side, the sense of weightlessness can be exhilarating and partly explains why it’s so easy to lose track of time on the Web—the same as when we’re “lost” in a good book.
-On the negative side, If you look up navigation in a dictionary, it’s about doing two things: getting from one place to another, and figuring out where you are.
+On the negative side, If you look up navigation in a dictionary, it’s about doing two things: getting from one place to another, and figuring out where you are.
+
 Two of the purposes of navigation are fairly obvious: to help us find whatever it is we’re looking for and to tell us where we are.
 
 ## Persistent navigation
 
 ![](https://ww1.sinaimg.cn/large/005SXJ9Agy1fyzdmy8i86j30u00xhaqh.jpg)
 
-Just having the navigation appear in the same place on every page with a consistent look gives you instant confirmation that you’re still in the same site. 
+Just having the navigation appear in the same place on every page with a consistent look gives you instant confirmation that you’re still in the same site.
 
 Persistent navigation should include the four elements you most need to have on hand at all times:
 
@@ -243,6 +247,37 @@ Until better technology-based solutions come along, here’s what I’d lean tow
 - Don’t bother with a camera pointed at the participant.
 
 ![image](https://user-images.githubusercontent.com/5803001/50689309-1e249a00-1064-11e9-8631-57a5420442f5.png)
+
+If the page is well designed, when your vision clears you should be able to answer these questions without hesitation:
+
+- What site is this? (Site ID)
+- What page am I on? (Page name)
+- What are the major sections of this site? (Sections)
+- What are my options at this level? (Local navigation)
+- Where am I in the scheme of things? (“You are here” indicators)
+- How can I search?
+
+Here’s how you perform the trunk test:
+
+- Step 1: Choose a page anywhere in the site at random, and print it.
+- Step 2: Hold it at arm’s length or squint so you can’t really study it closely.
+- Step 3: As quickly as possible, try to find and circle each of these items:
+  - Site ID
+  - Page name
+  - Sections (Primary navigation)
+  - Local navigation
+  - “You are here” indicator(s)
+  - Search
+
+# Chapter 7. The Big Bang Theory of Web Design
+
+# Chapter 8. “The Farmer and the Cowman Should Be Friends” | 论内部协作
+
+![image](https://user-images.githubusercontent.com/5803001/51085123-ae9f6080-176f-11e9-8112-09ac81e7d431.png)
+
+![image](https://user-images.githubusercontent.com/5803001/51085117-929bbf00-176f-11e9-93de-91ddb5ee024f.png)
+
+# Chapter 9. Usability testing on 10 cents a day
 
 # Chapter 11. Usability as common courtesy(绅士)
 
