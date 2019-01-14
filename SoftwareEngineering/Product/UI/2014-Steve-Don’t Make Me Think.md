@@ -250,6 +250,16 @@ how to use it.
 
 # Chapter 9. Usability testing on 10 cents a day
 
+## Repeat after me: Focus groups are not usability tests
+
+Here’s the difference in a nutshell:
+
+- In a focus group, a small group of people (usually 5 to 10) sit around a table and talk about things, like their opinions about products, their past experiences with them, or their reactions to new concepts. Focus groups are good for quickly getting a sampling of users’ feelings and opinions about things.
+
+- Usability tests are about watching one person at a time try to use something (whether it’s a Web site, a prototype, or some sketches of a new design) to do typical tasks so you can detect and fix the things that confuse or frustrate them.
+
+The main difference is that in usability tests, you watch people actually use things, instead of just
+listening to them talk about them.
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
