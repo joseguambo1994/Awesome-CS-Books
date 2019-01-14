@@ -213,6 +213,27 @@ head when I enter a new site for the first time:
 ![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz569rv3trj30y508eadk.jpg)
 
 This is what I call the Big Bang Theory of Web Design. Like the Big Bang Theory, it’s based on the idea that the first few seconds you spend on a new Web site or Web page are critical.
+Everything on the Home page can contribute to our understanding of what the site is. But there are
+three important places on the page where we expect to find explicit statements of what the site is
+about.
+
+- The tag line
+
+One of the most valuable bits of real estate is the space right next to the Site ID. When we see a phrase that’s visually connected to the ID, we know it’s meant to be a tagline, and so we read it as a description of the whole site. We’ll look at taglines in detail in the next section.
+
+![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz5zzfpza4j30yi0bfdr9.jpg)
+
+- The Welcome blurb. 
+
+The Welcome blurb is a terse description of the site, displayed in a
+prominent block on the Home page, usually at the top left or center of the content space so it’s the first thing that catches your eye.
+
+![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz5zzdlaarj30yi0d8af9.jpg)
+
+- The “Learn more.”
+
+Innovative products and business models tend to require a fair amount of
+explanation, often more than most people have the patience for. But people have become accustomed to watching short videos on their computers and mobile devices. As a result, people have now come to expect a short explanatory video on most sites and are often willing to watch them.
 
 # Chapter 8. “The Farmer and the Cowman Should Be Friends” | 论内部协作
 
