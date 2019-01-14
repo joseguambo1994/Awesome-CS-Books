@@ -237,9 +237,16 @@ explanation, often more than most people have the patience for. But people have 
 
 # Chapter 8. “The Farmer and the Cowman Should Be Friends” | 论内部协作
 
+Left to their own devices, Web teams aren’t notoriously successful at making decisions about usability questions. Most teams end up spending a lot of precious time rehashing the same issues over and over.
+
 ![image](https://user-images.githubusercontent.com/5803001/51085123-ae9f6080-176f-11e9-8112-09ac81e7d431.png)
 
 ![image](https://user-images.githubusercontent.com/5803001/51085117-929bbf00-176f-11e9-93de-91ddb5ee024f.png)
+
+The point is, it’s not productive to ask questions like “Do most people like pull-down menus?” The right kind of question to ask is “Does this pull-down, with these items and this wording in this context on this page create a good experience for most people who are likely to use this site?”
+
+And there’s really only one way to answer that kind of question: testing. You have to use the collective skill, experience, creativity, and common sense of the team to build some version of the thing (even a crude version), then watch some people carefully as they try to figure out what it is and
+how to use it.
 
 # Chapter 9. Usability testing on 10 cents a day
 
