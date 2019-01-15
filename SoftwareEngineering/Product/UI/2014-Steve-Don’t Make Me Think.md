@@ -263,7 +263,9 @@ Here’s the difference in a nutshell:
 The main difference is that in usability tests, you watch people actually use things, instead of just
 listening to them talk about them.
 
+# Do-it-yourself usability testing
 
+![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz756ps9guj30u00ytquh.jpg)
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
