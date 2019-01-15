@@ -2,6 +2,8 @@
 
 在[产品经理必读书单](https://github.com/wxyyxc1992/Awesome-Links/blob/master/SoftwareEngineering/Product/Product-Links.md)以及[年度总结中](https://zhuanlan.zhihu.com/p/53717740)
 
+成书较早，提供的一些交互设计事例或者具体的交互方式可能有些成就，但是贯穿全书
+
 Here are a few things you **won't** find in this book:
 
 - Hard and fast usability rules
@@ -297,8 +299,6 @@ Here are some of the types of problems you’re going to see most often:
 - There’s too much going on.
 
 FOCUS RUTHLESSLY ON FIXING THE MOST SERIOUS PROBLEMS FIRST
-
-
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
