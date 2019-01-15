@@ -290,6 +290,14 @@ you to ask.
 
 ## The debriefing: Deciding what to fix
 
+Here are some of the types of problems you’re going to see most often:
+
+- Users are unclear on the concept.
+- The words they’re looking for aren’t there.
+- There’s too much going on.
+
+FOCUS RUTHLESSLY ON FIXING THE MOST SERIOUS PROBLEMS FIRST
+
 
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
