@@ -263,9 +263,34 @@ Here’s the difference in a nutshell:
 The main difference is that in usability tests, you watch people actually use things, instead of just
 listening to them talk about them.
 
-# Do-it-yourself usability testing
+## Do-it-yourself usability testing
 
 ![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz756ps9guj30u00ytquh.jpg)
+
+The purpose of this kind of testing isn’t to prove anything. You don’t need to find all of the problems. In fact, you’ll never find all of the problems in anything you test. And it wouldn’t help if you did, because of this fact:
+You can find more problems in half a day than you can fix in a month.
+
+A typical one-hour test would be broken down something like this:
+
+- Welcome (4 minutes). You begin by explaining how the test will work so the participant knows what to expect.
+
+- The questions (2 minutes). Next you ask the participant a few questions about themselves. This helps put them at ease and gives you an idea of how computer-savvy and Web-savvy they are.
+
+- The Home page tour (3 minutes). Then you open the Home page of the site you’re testing and ask the participant to look around and tell you what they make of it. This will give you an idea
+of how easy it is to understand your Home page and how much the participant already knows your domain.
+
+- The tasks (35 minutes). This is the heart of the test: watching the participant try to perform a series of tasks (or in some cases, just one long task). Again, your job is to make sure the participant stays focused on the tasks and keeps thinking aloud.
+If the participant stops saying what they’re thinking, prompt them by saying—wait for it — “What are you thinking?” (For variety, you can also say things like “What are you looking at?” and “What are you doing now?”)
+During this part of the test, it’s crucial that you let them work on their own and don’t do or say anything to influence them. Don’t ask them leading questions, and don’t give them any clues or assistance unless they’re hopelessly stuck or extremely frustrated. If they ask for help, just say something like “What would you do if I wasn’t here?”
+
+- Probing (5 minutes). After the tasks, you can ask the participant questions about anything that happened during the test and any questions that the people in the observation room would like
+you to ask.
+
+- Wrapping up (5 minutes). Finally, you thank them for their help, pay them, and show them to the door.
+
+## The debriefing: Deciding what to fix
+
+
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
