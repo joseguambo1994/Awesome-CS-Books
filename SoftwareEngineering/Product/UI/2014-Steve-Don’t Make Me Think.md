@@ -250,6 +250,8 @@ how to use it.
 
 # Chapter 9. Usability testing on 10 cents a day
 
+Usability testing has been around for a long time, and the basic idea is pretty simple: If you want to know whether something is easy enough to use, watch some people while they try to use it and note where they run into problems. Testing one user is 100 percent better than testing none. Testing one user early in the project is better than testing 50 near the end. 
+
 ## Repeat after me: Focus groups are not usability tests
 
 Here’s the difference in a nutshell:
@@ -260,6 +262,8 @@ Here’s the difference in a nutshell:
 
 The main difference is that in usability tests, you watch people actually use things, instead of just
 listening to them talk about them.
+
+
 
 # Chapter 10. Mobile: It’s not just a city in Alabama anymore
 
