@@ -1,8 +1,6 @@
 # Dont Make Me Think. A Common Sense Approach to Web Usability.
 
-在[产品经理必读书单](https://github.com/wxyyxc1992/Awesome-Links/blob/master/SoftwareEngineering/Product/Product-Links.md)以及[年度总结中](https://zhuanlan.zhihu.com/p/53717740)
-
-成书较早，提供的一些交互设计事例或者具体的交互方式可能有些成就，但是贯穿全书
+早些年从后端逐步迈入前端，也没有什么艺术细菌，也多是从技术角度考虑而忽略了产品、交互以及视觉。在[产品经理必读书单](https://github.com/wxyyxc1992/Awesome-Links/blob/master/SoftwareEngineering/Product/Product-Links.md)以及[年度总结中](https://zhuanlan.zhihu.com/p/53717740)，都会有想要逐步培养些产品思维，无论是自己平日工作中拧紧的螺丝钉还是手工做的小产品，都想赋予些设计而不仅仅是功能的堆叠。[Don't Make Me Think](https://parg.co/64R) 成书较早，提供的一些交互设计事例或者具体的交互方式可能有些成就，但是贯穿全书的简单至上的理念也是让我在某些方面有了更深刻的认识；也可以前往 [Awesome-CS-Books-Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse/) 浏览更多产品、交互、软件工程方面的书籍。
 
 Here are a few things you **won't** find in this book:
 
@@ -214,7 +212,8 @@ head when I enter a new site for the first time:
 
 ![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz569rv3trj30y508eadk.jpg)
 
-This is what I call the Big Bang Theory of Web Design. Like the Big Bang Theory, it’s based on the idea that the first few seconds you spend on a new Web site or Web page are critical.
+This is what I call the Big Bang Theory of Web Design. Like the Big Bang Theory, it’s based on the idea that the first few seconds you spend on a new Web site or Web page are critical.
+
 Everything on the Home page can contribute to our understanding of what the site is. But there are
 three important places on the page where we expect to find explicit statements of what the site is
 about.
@@ -225,7 +224,7 @@ One of the most valuable bits of real estate is the space right next to the Site
 
 ![](https://ww1.sinaimg.cn/large/007rAy9hgy1fz5zzfpza4j30yi0bfdr9.jpg)
 
-- The Welcome blurb. 
+- The Welcome blurb.
 
 The Welcome blurb is a terse description of the site, displayed in a
 prominent block on the Home page, usually at the top left or center of the content space so it’s the first thing that catches your eye.
@@ -252,7 +251,7 @@ how to use it.
 
 # Chapter 9. Usability testing on 10 cents a day
 
-Usability testing has been around for a long time, and the basic idea is pretty simple: If you want to know whether something is easy enough to use, watch some people while they try to use it and note where they run into problems. Testing one user is 100 percent better than testing none. Testing one user early in the project is better than testing 50 near the end. 
+Usability testing has been around for a long time, and the basic idea is pretty simple: If you want to know whether something is easy enough to use, watch some people while they try to use it and note where they run into problems. Testing one user is 100 percent better than testing none. Testing one user early in the project is better than testing 50 near the end.
 
 ## Repeat after me: Focus groups are not usability tests
 
@@ -279,14 +278,14 @@ A typical one-hour test would be broken down something like this:
 - The questions (2 minutes). Next you ask the participant a few questions about themselves. This helps put them at ease and gives you an idea of how computer-savvy and Web-savvy they are.
 
 - The Home page tour (3 minutes). Then you open the Home page of the site you’re testing and ask the participant to look around and tell you what they make of it. This will give you an idea
-of how easy it is to understand your Home page and how much the participant already knows your domain.
+  of how easy it is to understand your Home page and how much the participant already knows your domain.
 
 - The tasks (35 minutes). This is the heart of the test: watching the participant try to perform a series of tasks (or in some cases, just one long task). Again, your job is to make sure the participant stays focused on the tasks and keeps thinking aloud.
-If the participant stops saying what they’re thinking, prompt them by saying—wait for it — “What are you thinking?” (For variety, you can also say things like “What are you looking at?” and “What are you doing now?”)
-During this part of the test, it’s crucial that you let them work on their own and don’t do or say anything to influence them. Don’t ask them leading questions, and don’t give them any clues or assistance unless they’re hopelessly stuck or extremely frustrated. If they ask for help, just say something like “What would you do if I wasn’t here?”
+  If the participant stops saying what they’re thinking, prompt them by saying—wait for it — “What are you thinking?” (For variety, you can also say things like “What are you looking at?” and “What are you doing now?”)
+  During this part of the test, it’s crucial that you let them work on their own and don’t do or say anything to influence them. Don’t ask them leading questions, and don’t give them any clues or assistance unless they’re hopelessly stuck or extremely frustrated. If they ask for help, just say something like “What would you do if I wasn’t here?”
 
 - Probing (5 minutes). After the tasks, you can ask the participant questions about anything that happened during the test and any questions that the people in the observation room would like
-you to ask.
+  you to ask.
 
 - Wrapping up (5 minutes). Finally, you thank them for their help, pay them, and show them to the door.
 
@@ -365,7 +364,6 @@ Until better technology-based solutions come along, here’s what I’d lean tow
 - Don’t bother with a camera pointed at the participant.
 
 ![image](https://user-images.githubusercontent.com/5803001/50689309-1e249a00-1064-11e9-8631-57a5420442f5.png)
-
 
 # Chapter 11. Usability as common courtesy(绅士)
 
