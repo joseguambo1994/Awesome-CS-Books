@@ -1,4 +1,4 @@
-# Google 经典 BigTable:Spanner:F1 论文笔记.md
+# Google 经典 BigTable/Spanner/F1 论文笔记.md
 
 # Todos
 
