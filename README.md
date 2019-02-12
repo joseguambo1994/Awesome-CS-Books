@@ -14,7 +14,7 @@
 
 # Preface | 前言
 
-建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容，也可以使用 [alfred-sg](https://github.com/wxyyxc1992/xCompass/tree/master/soogle/alfred-sg) 在 MAC 设备上进行快速检索。
+建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容，也可以使用 [alfred-sg](https://github.com/wxyyxc1992/Soogle/tree/master/alfred-sg) 在 MAC 设备上进行快速检索。
 
 # About
 
