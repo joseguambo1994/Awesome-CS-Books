@@ -34,7 +34,7 @@
   - [RDB](../Infrastructure/Database/RDB/README.md) 
   - [Specials](../Infrastructure/Database/Specials/README.md) 
     - [Google](../Infrastructure/Database/Specials/Google/README.md) 
-      - [Google 经典 BigTable, Spanner, F1 论文笔记.md](../Infrastructure/Database/Specials/Google/Google%20经典%20BigTable,%20Spanner,%20F1%20论文笔记.md.md) 
+      - [Google 经典 BigTable, Spanner, F1 论文笔记.md](../Infrastructure/Database/Specials/Google/Google 经典 BigTable, Spanner, F1 论文笔记.md.md) 
 - [DistributedComputing](../Infrastructure/DistributedComputing/README.md) 
   - [Flink](../Infrastructure/DistributedComputing/Flink/README.md) 
   - [Hadoop](../Infrastructure/DistributedComputing/Hadoop/README.md) 
@@ -48,7 +48,7 @@
     - [TheNewStack](../Infrastructure/Virtualization/Docker/TheNewStack/README.md) 
   - [Kubernetes](../Infrastructure/Virtualization/Kubernetes/README.md) 
     - [2017-Kubernetes权威指南：从Docker到Kubernetes实践全接触-2nd.epub](../Infrastructure/Virtualization/Kubernetes/2017-Kubernetes权威指南：从Docker到Kubernetes实践全接触-2nd.epubREADME.md) 
-    - [The New Stack](../Infrastructure/Virtualization/Kubernetes/The%20New%20Stack/README.md) 
+    - [The New Stack](../Infrastructure/Virtualization/Kubernetes/The New Stack/README.md) 
 
 ## Product 
 
@@ -57,7 +57,7 @@
   - [2003-四步创业法](../Product/Business/2003-四步创业法.md) 
   - [2012-埃里克-精益创业](../Product/Business/2012-埃里克-精益创业.md) 
 - [Design](../Product/Design/README.md) 
-  - [2014-Steve-Don’t Make Me Think](../Product/Design/2014-Steve-Don’t%20Make%20Me%20Think.md) 
+  - [2014-Steve-Don’t Make Me Think](../Product/Design/2014-Steve-Don’t Make Me Think.md) 
 - [Management](../Product/Management/README.md) 
 
 ## ProgrammingLanguage 
@@ -73,7 +73,7 @@
 
 - [AlgoDS](../SoftwareEngineering/AlgoDS/README.md) 
 - [Architecture](../SoftwareEngineering/Architecture/README.md) 
-  - [2017-Martin Fowler-架构整洁之道](../SoftwareEngineering/Architecture/2017-Martin%20Fowler-架构整洁之道.md) 
+  - [2017-Martin Fowler-架构整洁之道](../SoftwareEngineering/Architecture/2017-Martin Fowler-架构整洁之道.md) 
 - [DesginPattern](../SoftwareEngineering/DesginPattern/README.md) 
 - [SDK](../SoftwareEngineering/SDK/README.md) 
   - [Git](../SoftwareEngineering/SDK/Git/README.md) 
