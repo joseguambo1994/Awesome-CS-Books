@@ -30,11 +30,7 @@
 
 ![](https://i.postimg.cc/3RVYtbsv/image.png)
 
-- 在下文的 [MATRIX 文章与代码矩阵 https://github.com/wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) 中查看文章与项目的源代码。
-
-| [数理统计](./数理统计) | [数据分析](./数据分析) | [机器学习](./机器学习) | [深度学习](./深度学习) | [自然语言处理](./自然语言处理) | [推荐系统等行业应用](./行业应用) | [课程笔记](./课程笔记) | [TensorFlow & PyTorch 等工具实践](./工具实践) |
-| ---------------------- | ---------------------- | ---------------------- | ---------------------- | ------------------------------ | -------------------------------- | ---------------------- | --------------------------------------------- |
-
+- 在 [MATRIX 文章与代码矩阵 https://github.com/wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) 中查看文章与项目的源代码。
 
 # About
 
