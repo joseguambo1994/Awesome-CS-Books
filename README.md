@@ -36,6 +36,8 @@
 
 ![default](https://i.postimg.cc/y1QXgJ6f/image.png)
 
+> 加密文件的解压密码为：wx-coder
+
 ## Credits | 参考
 
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
