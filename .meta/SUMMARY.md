@@ -1,6 +1,6 @@
 # Summary 
 
-## Backend 
+## [Backend](../Backend) 
 
 - [Architecture](../Backend/Architecture/README.md) 
   - [Pattern](../Backend/Architecture/Pattern/README.md) 
@@ -9,8 +9,9 @@
   - [Java](../Backend/WebFramework/Java/README.md) 
   - [Node](../Backend/WebFramework/Node/README.md) 
 
-## DataScienceAI 
+## [DataScienceAI](../DataScienceAI) 
 
+- [2018-美团机器学习实践.pdf.zip](../DataScienceAI/2018-美团机器学习实践.pdf.zipREADME.md) 
 - [Application](../DataScienceAI/Application/README.md) 
   - [RecommendSystem](../DataScienceAI/Application/RecommendSystem/README.md) 
 - [DeepLearning](../DataScienceAI/DeepLearning/README.md) 
@@ -19,13 +20,13 @@
 - [Mathematics](../DataScienceAI/Mathematics/README.md) 
 - [NLP](../DataScienceAI/NLP/README.md) 
 
-## Frontend 
+## [Frontend](../Frontend) 
 
 - [Android](../Frontend/Android/README.md) 
 - [DataVisualization](../Frontend/DataVisualization/README.md) 
 - [iOS](../Frontend/iOS/README.md) 
 
-## Infrastructure 
+## [Infrastructure](../Infrastructure) 
 
 - [CloudComputing](../Infrastructure/CloudComputing/README.md) 
 - [Database](../Infrastructure/Database/README.md) 
@@ -34,7 +35,7 @@
   - [RDB](../Infrastructure/Database/RDB/README.md) 
   - [Specials](../Infrastructure/Database/Specials/README.md) 
     - [Google](../Infrastructure/Database/Specials/Google/README.md) 
-      - [Google 经典 BigTable, Spanner, F1 论文笔记.md](../Infrastructure/Database/Specials/Google/Google 经典 BigTable, Spanner, F1 论文笔记.md.md) 
+      - [Google 经典 BigTable, Spanner, F1 论文笔记](../Infrastructure/Database/Specials/Google/Google 经典 BigTable, Spanner, F1 论文笔记.md) 
 - [DistributedComputing](../Infrastructure/DistributedComputing/README.md) 
   - [Flink](../Infrastructure/DistributedComputing/Flink/README.md) 
   - [Hadoop](../Infrastructure/DistributedComputing/Hadoop/README.md) 
@@ -42,25 +43,21 @@
   - [Spark](../Infrastructure/DistributedComputing/Spark/README.md) 
 - [DistributedSystem](../Infrastructure/DistributedSystem/README.md) 
 - [OS](../Infrastructure/OS/README.md) 
-  - [Linux](../Infrastructure/OS/Linux/README.md) 
 - [Virtualization](../Infrastructure/Virtualization/README.md) 
   - [Docker](../Infrastructure/Virtualization/Docker/README.md) 
-    - [TheNewStack](../Infrastructure/Virtualization/Docker/TheNewStack/README.md) 
   - [Kubernetes](../Infrastructure/Virtualization/Kubernetes/README.md) 
     - [2017-Kubernetes权威指南：从Docker到Kubernetes实践全接触-2nd.epub](../Infrastructure/Virtualization/Kubernetes/2017-Kubernetes权威指南：从Docker到Kubernetes实践全接触-2nd.epubREADME.md) 
-    - [The New Stack](../Infrastructure/Virtualization/Kubernetes/The New Stack/README.md) 
 
-## Product 
+## [Product](../Product) 
 
 - [Analytic](../Product/Analytic/README.md) 
 - [Business](../Product/Business/README.md) 
   - [2003-四步创业法](../Product/Business/2003-四步创业法.md) 
   - [2012-埃里克-精益创业](../Product/Business/2012-埃里克-精益创业.md) 
 - [Design](../Product/Design/README.md) 
-  - [2014-Steve-Don’t Make Me Think](../Product/Design/2014-Steve-Don’t Make Me Think.md) 
 - [Management](../Product/Management/README.md) 
 
-## ProgrammingLanguage 
+## [ProgrammingLanguage](../ProgrammingLanguage) 
 
 - [Go](../ProgrammingLanguage/Go/README.md) 
 - [Java](../ProgrammingLanguage/Java/README.md) 
@@ -69,7 +66,7 @@
 - [ProgrammingLanguageTheory](../ProgrammingLanguage/ProgrammingLanguageTheory/README.md) 
 - [Rust](../ProgrammingLanguage/Rust/README.md) 
 
-## SoftwareEngineering 
+## [SoftwareEngineering](../SoftwareEngineering) 
 
 - [AlgoDS](../SoftwareEngineering/AlgoDS/README.md) 
 - [Architecture](../SoftwareEngineering/Architecture/README.md) 
@@ -78,10 +75,10 @@
 - [SDK](../SoftwareEngineering/SDK/README.md) 
   - [Git](../SoftwareEngineering/SDK/Git/README.md) 
 
-## Specials 
+## [Specials](../Specials) 
 
 
-## Web 
+## [Web](../Web) 
 
 - [Framework](../Web/Framework/README.md) 
 - [Syntax](../Web/Syntax/README.md) 
